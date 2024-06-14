@@ -1,1 +1,1 @@
-# Assignment 2 project
+# FYP MindaChat Project
